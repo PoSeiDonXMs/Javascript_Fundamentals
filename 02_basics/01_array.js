@@ -36,6 +36,6 @@ console.log(myn1);
 console.log("B ", myArr);
 
 
-const myn2 = myArr.splice(1, 3)
+const myn2 = myArr.splice(1, 3) // splice manipulates the original array whereas slice doesn't  change the original array 
 console.log("C ", myArr);
 console.log(myn2);
