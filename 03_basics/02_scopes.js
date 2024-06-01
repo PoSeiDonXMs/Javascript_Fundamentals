@@ -41,5 +41,22 @@ if(true) {
     // console.log(website);
 }
 
+// ++++++++++--> Interesting ++++++++/////////
+
+
+console.log(addOne(5))
+function addOne(num){
+    return num + 1
+}
+
+
+
+
+const addTwo = function(num){
+    return num + 2
+}
+console.log(addTwo(5))
+
+// decleration dene ke saath variable mein hold bhi kar diya hai  , isliye jaise addOne vaale ko initialization se phle kar paa rhe the addTwo vaale mei possible nhi hai
 
 
