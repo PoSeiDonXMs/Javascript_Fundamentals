@@ -52,5 +52,5 @@ console.log(addTwo(3, 4))
 // myArray.forEach()
 
 // Arrow ends here!!!!
-// Next topic is iife!!!!
+// Next topic is iife!!!
 
