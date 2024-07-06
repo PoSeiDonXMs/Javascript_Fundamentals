@@ -9,6 +9,7 @@ accountPassword = 12349
 accountCity = "Bengaluru"
 let accountState;
 /* 
+variable declare karne ke 2 tareeke  ( let aur var ) --> let hi use karte hai modern times mei
 Prefer not to use var!!
 because of issue in block scope and functional scope
 */
